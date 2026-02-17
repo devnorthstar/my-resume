@@ -1,0 +1,69 @@
+
+---
+title: "Professional Portfolio"
+format: 
+  html:
+    theme: quartz
+    respect-user=color-scheme: true
+    toc: false
+    number-sections: false
+    page-layout: full
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+# ![](https://via.placeholder.com/150){.rounded-circle}
+
+![](Josie.jpeg)
+
+### Contact Info
+**Email:** [josiemb.bc@gmail.com](mailto:josiemb.bc@gmail.com)  
+**LinkedIn:** [linkedin.com/in/josiemb](https://linkedin.com)  
+**Location:** North Vancouver, BC
+
+### Key Skills
+* **Technical:** Python, R, SQL, Quarto/Markdown
+* **Design:** UI/UX, Accessible Web Design
+* **Leadership:** Project Management, Agile
+:::
+
+::: {.g-col-12 .g-col-md-8}
+## About Me
+I am a dedicated professional with over 5 years of experience in [Your Industry]. I specialize in bridging the gap between complex data and actionable insights, with a focus on creating accessible, user-centric digital experiences.
+
+## Professional Experience
+
+### **Senior Project Lead** | *TechSolutions Inc.*
+*Jan 2021 – Present*
+* Streamlined internal workflows, reducing project turnaround time by **20%**.
+* Managed a cross-functional team of 10 to launch a flagship SaaS product.
+* Mentored junior developers in best practices for documentation and code clarity.
+
+### **Data Analyst** | *Global Analytics Co.*
+*June 2018 – Dec 2020*
+* Developed automated reporting dashboards using R and Shiny.
+* Identified key market trends that led to a **$50k** increase in quarterly revenue.
+
+---
+
+## Education
+
+### **Master of Business Administration**
+*University Canada West* | 2026
+
+### **Diploma in Business Administration**
+*Capilano University* | 2021
+
+### **Bachelor in Data Processing Management**
+*Polytechnic University of the Philippines* | Cum Laude
+
+---
+
+## Strengths
+> **Adaptability:** Thriving in fast-paced environments and pivoting when project requirements shift.
+> 
+> **Communication:** Translating technical jargon into clear, concise language for stakeholders.
+:::
+
+:::
